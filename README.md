@@ -1,6 +1,6 @@
 # **PyChunks**
 
-**PyChunks** is a lightweight, intuitive Python code runner designed for developers who want to quickly test and execute small code snippets. Whether you're a beginner or an experienced Pythonista, PyChunks offers a fast and clean interface for experimenting with Python code—instantly!
+**PyChunks** is a fast, user-friendly Python code runner, designed for developers to quickly test and execute Python code snippets with ease, whether you're a beginner or an experienced developer.
 
 <div align="center">
   <img src="logo.png" width="400" />
