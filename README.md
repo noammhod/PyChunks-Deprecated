@@ -37,8 +37,8 @@
 
 ## 🚀 Future Plans  
 
-🔹 **Auto-Save for Code Chunks** – Your code will be saved automatically so you don't lose progress.  
-🔹 **Support for External Modules** – Import and use third-party Python libraries within PyChunks.  
+- **Auto-Save for Code Chunks** – Your code will be saved automatically so you don't lose progress.  
+- **Support for External Modules** – Import and use third-party Python libraries within PyChunks.  
 
 ---  
 
