@@ -36,6 +36,12 @@
 
 ---
 
+🚀 Future Plans
+🔹 Auto-Save for Code Chunks – Your code will be saved automatically so you don't lose progress.
+🔹 Support for External Modules – Import and use third-party Python libraries within PyChunks.
+
+---
+
 ## 🚫 Contribution
 
 At this moment, contributions are not open. But stay tuned for future updates! 🎉
