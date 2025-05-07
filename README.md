@@ -1,6 +1,6 @@
 <div align="center">  
   <img src="logo.png" width="300" /> 
-  img src="PyChunks_gif.gif" alt="PyChunks Animation" width="400">
+  <img src="PyChunks_gif.gif" alt="PyChunks Animation" width="400">
 </div>  
 
 ---  
