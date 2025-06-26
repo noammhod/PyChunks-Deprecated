@@ -2,10 +2,11 @@
   <img src="logo.png" width="300" alt="PyChunks Logo" />  
   <br /><br />
   
-  [![Watch PyChunks Demo on YouTube](https://img.youtube.com/vi/kwh2PgEzNso/maxresdefault.jpg)](https://youtu.be/kwh2PgEzNso)
+  [<img src="https://img.youtube.com/vi/kwh2PgEzNso/maxresdefault.jpg" alt="Watch PyChunks Demo on YouTube" width="300"/>](https://youtu.be/kwh2PgEzNso)
   <br />
   <em>Click the image to watch the PyChunks demo video</em>
 </div>
+
 
 ---
 
