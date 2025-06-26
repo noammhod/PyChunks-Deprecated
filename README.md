@@ -10,87 +10,69 @@
 
 **Version 1.1**  
 
-A sleek and powerful tool to write, run, and manage Python code snippets effortlessly.
+A powerful Python project manager designed to simplify coding with embedded Python support and smart features.
 
 ---
 
 ## ✨ Key Features
 
-- ⚡ **Instant Execution**  
-  Run Python code snippets instantly with just one click—no delays, no fuss.  
+- 📦 **Embedded Python & pip**  
+  No additional installation needed — everything works out of the box with embedded Python runtime and package manager.  
 
-- 🔄 **Real-Time Output**  
-  See your code results appear immediately right below each code chunk for faster feedback.  
-
-- 🎨 **Clean & Intuitive Interface**  
-  A modern, user-friendly UI that lets you focus on coding, not on navigating.  
-
-- 🔧 **Resizable Chunks & Output**  
-  Customize your workspace by resizing code chunks and their output windows to your liking.  
-
-- 📦 **Portable & Standalone**  
-  Just download the `.exe` and start coding—no installation or setup required!  
-
----
-
-## 🚀 What’s New in Version 1.1
-
-- 🛠️ **External Libraries Auto-Install**  
-  Automatically installs any required Python packages when you import them.  
+- 📥 **Automatic External Libraries Installation**  
+  Automatically detects and installs required Python libraries when you import them in your code.  
 
 - 🗂️ **Spaces Support**  
-  Save and load multiple code chunks within a single project file effortlessly.  
-
-- 🐍 **Embedded Python & pip**  
-  Fully embedded runtime—no need to install Python or pip separately.  
+  Save and load multiple code chunks grouped within a single project file for better organization.  
 
 - 💻 **Improved Terminal**  
-  Enhanced terminal experience with better responsiveness and features.  
+  Enhanced terminal experience with better responsiveness and usability.  
 
-- 🎨 **UI Enhancements**  
-  Smoother and cleaner interface for a better coding experience.  
+- 🎨 **User Interface Improvements**  
+  Cleaner, more intuitive UI for smoother and more productive workflows.  
 
-- 🐞 **Bug Fixes**  
-  Stability and editor improvements for fewer glitches.  
+- 🐞 **Bug Fixes in Code Editor**  
+  Stability and usability improvements in the editor for fewer glitches and smoother coding.  
 
-- 💾 **Automatic Saving**  
-  Your work is saved automatically to keep your progress safe.  
+- 💾 **Auto-Save**  
+  Your work is saved automatically to prevent data loss and streamline your development.
 
 ---
 
 ## 📥 Installation
 
-1. Download the latest [`PyChunks_Installer.exe`](https://github.com/noammhod/PyChunks/releases) from the Releases section.  
-2. Run the installer and follow the setup instructions.  
-3. Launch PyChunks via the desktop shortcut and start coding immediately!
+1. Download the latest [`PyChunks_Installer.exe`](https://github.com/noammhod/PyChunks/releases) from the Releases page.  
+2. Run the installer and follow the on-screen instructions.  
+3. Launch PyChunks from the desktop shortcut and start coding immediately!
 
 ---
 
 ## 🛠️ How to Use
 
-- Open PyChunks and write Python code inside the code chunks.  
-- Click the **Run** button beside any chunk to execute your code instantly.  
-- View output directly below the code for easy debugging and testing.  
-- Resize code chunks and outputs as you wish to optimize your workspace.
+- Open PyChunks and write Python code chunks inside the editor.  
+- When importing external libraries, the program will auto-install them seamlessly.  
+- Group your code snippets in “spaces” and save them all in one project file.  
+- Execute your code and view output directly in the improved terminal window.  
+- Benefit from automatic saving to avoid losing your work.
 
 ---
 
 ## 📋 System Requirements
 
 - Windows 10 / 11 (64-bit)  
-- [.NET 8.0 Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/8.0) (If not installed, download from Microsoft)  
+- [.NET 8.0 Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/8.0) (if not installed, download from Microsoft)
 
 ---
 
 ## 💬 Support & Feedback
 
-Questions, issues, or suggestions? Please open an issue on the [GitHub Issues page](https://github.com/noammhod/PyChunks/issues). We’re here to help!
+Encountered issues or have questions? Please open an issue on the [GitHub Issues page](https://github.com/noammhod/PyChunks/issues). Your feedback is welcome!
 
 ---
 
 ## 🚫 Contributions
 
-Currently, contributions are not open, but stay tuned for future updates and community involvement!
+Currently closed for public contributions. Stay tuned for future opportunities!
 
 ---
 
