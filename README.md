@@ -1,7 +1,10 @@
 <div align="center">  
   <img src="logo.png" width="300" alt="PyChunks Logo" />  
   <br /><br />
-  <img src="PyChunks_gif.gif" alt="PyChunks Animation" width="400" />
+  
+  [![Watch PyChunks Demo on YouTube](https://img.youtube.com/vi/kwh2PgEzNso/maxresdefault.jpg)](https://youtu.be/kwh2PgEzNso)
+  <br />
+  <em>Click the image to watch the PyChunks demo video</em>
 </div>
 
 ---
