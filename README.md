@@ -14,7 +14,9 @@
 
 **Version 1.1**  
 
-A powerful Python project manager designed to simplify coding with embedded Python support and smart features.
+PyChunks is an intuitive and versatile Python development tool that lets you organize your code into manageable chunks, with embedded Python runtime, automatic package management, and smart project organization — all wrapped in a seamless, user-friendly interface
+
+
 
 ---
 
